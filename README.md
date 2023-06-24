@@ -1,1 +1,1 @@
-# Real-Time-Voting-System
+This project is based on pipeline architecture
